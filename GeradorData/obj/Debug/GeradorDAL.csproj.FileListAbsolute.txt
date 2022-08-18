@@ -1,0 +1,10 @@
+H:\mmstec\PROJETOS\GenMVC\Gerador\bin\Debug\Gerador.dll
+H:\mmstec\PROJETOS\GenMVC\Gerador\bin\Debug\Gerador.pdb
+H:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\ResolveAssemblyReference.cache
+H:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\Gerador.dll
+H:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\Gerador.pdb
+L:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\Gerador.pdb
+L:\mmstec\PROJETOS\GenMVC\Gerador\bin\Debug\Gerador.dll
+L:\mmstec\PROJETOS\GenMVC\Gerador\bin\Debug\Gerador.pdb
+L:\mmstec\PROJETOS\GenMVC\Gerador\obj\Debug\Gerador.dll

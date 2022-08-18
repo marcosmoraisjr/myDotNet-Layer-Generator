@@ -1,0 +1,9 @@
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Entity.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Entity.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Connection.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Connection.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\bin\x86\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\obj\x86\Debug\Gerador.Entity.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorEntity\obj\x86\Debug\Gerador.Entity.pdb

@@ -1,0 +1,40 @@
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gen.Banco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gen.Banco\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gen.Banco\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gen.Banco\obj\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gen.Banco\obj\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gen.Banco\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gen.Banco\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gen.Banco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gen.Banco\obj\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gen.Banco\obj\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBanco\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBanco\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBanco\obj\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBanco\obj\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorBanco\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorBanco\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorBanco\obj\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorBanco\obj\Debug\GeradorBanco.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorBanco\bin\Debug\GeradorBanco.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorBanco\bin\Debug\GeradorBanco.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorBanco\obj\Debug\GeradorBanco.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorBanco\obj\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorBanco\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorBanco\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorBanco\obj\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorBanco\obj\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorBanco\bin\Debug\GeradorBanco.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorBanco\bin\Debug\GeradorBanco.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorBanco\obj\Debug\ResolveAssemblyReference.cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorBanco\obj\Debug\GeradorBanco.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorBanco\obj\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBanco\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBanco\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBanco\obj\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBanco\obj\Debug\Gerador.Banco.pdb

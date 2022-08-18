@@ -1,0 +1,106 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PortalAdminVO
+{
+    public class comunicadoVO
+    {
+
+        // atributos
+        private int M_id_comunicado;
+        private string M_ds_ano;
+        private int M_nr_comunicado;
+        private string M_dt_inicio;
+        private string M_dt_termino;
+        private string M_ds_orgao;
+        private string M_ds_titulo;
+        private string M_ds_urldodocumento;
+        private int M_id_publicacao;
+        private string M_ds_regional;
+        private string M_ds_revisao;
+        private string M_ds_apresentacao;
+        private string M_ds_texto;
+        private string M_ds_urlimagem;
+        private int M_id_autorizacao;
+
+
+        // propriedades
+        public int id_comunicado
+        {
+            get { return M_id_comunicado; }
+            set { M_id_comunicado = value; }
+        }
+        public string ds_ano
+        {
+            get { return M_ds_ano; }
+            set { M_ds_ano = value; }
+        }
+        public int nr_comunicado
+        {
+            get { return M_nr_comunicado; }
+            set { M_nr_comunicado = value; }
+        }
+        public string dt_inicio
+        {
+            get { return M_dt_inicio; }
+            set { M_dt_inicio = value; }
+        }
+        public string dt_termino
+        {
+            get { return M_dt_termino; }
+            set { M_dt_termino = value; }
+        }
+        public string ds_orgao
+        {
+            get { return M_ds_orgao; }
+            set { M_ds_orgao = value; }
+        }
+        public string ds_titulo
+        {
+            get { return M_ds_titulo; }
+            set { M_ds_titulo = value; }
+        }
+        public string ds_urldocumento
+        {
+            get { return M_ds_urldodocumento; }
+            set { M_ds_urldodocumento = value; }
+        }
+        public int id_publicacao
+        {
+            get { return M_id_publicacao; }
+            set { M_id_publicacao = value; }
+        }
+        public string ds_regional
+        {
+            get { return M_ds_regional; }
+            set { M_ds_regional = value; }
+        }
+        public string ds_revisao
+        {
+            get { return M_ds_revisao; }
+            set { M_ds_revisao = value; }
+        }
+        public string ds_apresentacao
+        {
+            get { return M_ds_apresentacao; }
+            set { M_ds_apresentacao = value; }
+        }
+        public string ds_texto
+        {
+            get { return M_ds_texto; }
+            set { M_ds_texto = value; }
+        }
+        public string ds_urlimagem
+        {
+            get { return M_ds_urlimagem; }
+            set { M_ds_urlimagem = value; }
+        }
+        public int id_autorizacao
+        {
+            get { return M_id_autorizacao; }
+            set { M_id_autorizacao = value; }
+        }
+    
+    }
+}

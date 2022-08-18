@@ -1,0 +1,11 @@
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Entity.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Entity.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Release\ResolveAssemblyReference.cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Release\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Release\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Connection.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Release\Gerador.Connection.pdb

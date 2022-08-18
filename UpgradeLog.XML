@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gen">
+</Property><Property Name="Solution File" Value="C:\Users\Rafael\Downloads\GenDAO\GenDAO\Gen.sln">
+</Property><Property Name="Date" Value="sábado, 9 de fevereiro de 2008">
+</Property><Property Name="Time" Value="22:57">
+</Property></Properties><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Gen" Source="Gen\Gen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Banco.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Banco" Source="Banco\Banco.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Library" Source="Library\Library.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Gen.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Gen.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Gen" Source="Gen\Gen.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorDO" Source="Gerador\GeradorDO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorVO" Source="GeradorVO\GeradorVO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Banco" Source="Banco\Banco.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GeradorBO" Source="GeradorBO\GeradorBO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library\Library.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,9 @@
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\bin\Debug\Gerador.Licenca.exe.config
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\bin\Debug\Gerador.Licenca.exe
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\bin\Debug\Gerador.Licenca.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.frmPrincipal.resources
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.Properties.Resources.resources
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.csproj.GenerateResource.Cache
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.exe
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.Licenca\obj\Debug\Gerador.Licenca.csprojResolveAssemblyReference.cache

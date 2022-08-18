@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F466A84-B426-4EBB-95A1-77FE86368699}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gerador.TESTE</RootNamespace>
+    <AssemblyName>Gerador.TESTE</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistryValueDataReader.cs" />
+    <Compile Include="RegistryValueDataReader_2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Gerador.Licenca\Gerador.Licenca.csproj">
+      <Project>{2f9897c5-f82f-4a02-9879-31e4468a8ab0}</Project>
+      <Name>Gerador.Licenca</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gerador.WebService\Gerador.WebService.csproj">
+      <Project>{0a307c4c-bdf2-4ae5-af45-f02adb859fae}</Project>
+      <Name>Gerador.WebService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorBusiness\Gerador.Business.csproj">
+      <Project>{8046ca55-f93a-4931-bb49-4fac1bd97f80}</Project>
+      <Name>Gerador.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorConnection\Gerador.Connection.csproj">
+      <Project>{c01801af-85b7-4095-9c4a-65cd26a3a0e2}</Project>
+      <Name>Gerador.Connection</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorData\Gerador.Dal.csproj">
+      <Project>{d40a2d76-a309-4279-bb2a-d32064817640}</Project>
+      <Name>Gerador.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorEntity\Gerador.Entity.csproj">
+      <Project>{4c12bc1f-f689-4a69-bf3d-2c8defc3644f}</Project>
+      <Name>Gerador.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeradorLibrary\Gerador.Library.csproj">
+      <Project>{39a5d7a9-ba86-49c1-81fc-ef30eb485fbc}</Project>
+      <Name>Gerador.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Gerador\Gerador.csproj">
+      <Project>{bf22745e-d3e1-48ae-85b1-a65baf7c57f1}</Project>
+      <Name>Gerador</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

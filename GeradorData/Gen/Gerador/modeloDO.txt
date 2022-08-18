@@ -1,0 +1,129 @@
+/*
+             * using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Data;
+using System.Data.SqlClient;
+
+namespace PortalAdminDO
+{
+    public class PortalAdminDO
+    {
+        // Atributos
+        private SqlConnection oConnection = null;
+        private string connectionString = null;
+        private SqlDataAdapter oDataAdapter = null;
+        private SqlCommand oCommand = null;
+        private DataSet oDataSet = null;
+        private string strServidor = null;
+
+        //Construtor
+        public PortalAdminDO()
+        {
+            //strServidor = 
+            connectionString = "Data Source=ELNBSBSRV12;Initial Catalog=Eletronorte;User ID=elnweb; Password=elnweb;";
+            oConnection = new SqlConnection(connectionString);
+        }
+
+        //Métodos
+
+        /// <summary>
+        /// Executa comandos sql e retorna o número de linhas afetadas.
+        /// </summary>
+        /// <param name="sSQL">Comando sql</param>
+        /// <returns>int regAffect</returns>
+        public int ExecutaQuery(string sSQL)
+        {
+            int regAffect = 0;
+            try
+            {
+                oCommand = new SqlCommand(sSQL, oConnection);
+                oConnection.Open();
+                regAffect = oCommand.ExecuteNonQuery();
+                if (regAffect == 0)
+                {
+                    throw new Exception("Ocorreu um erro, entre em contato com o administrador do sistema.");
+                }
+                else
+                {
+                    return regAffect;
+                }
+
+            }
+            catch (Exception err)
+            {
+                throw err;
+            }
+            finally
+            {
+                oConnection.Dispose();
+                oCommand.Dispose();
+            }
+
+        }
+
+        /// <summary>
+        /// Retorna um data set apartir de um comando sql
+        /// </summary>
+        /// <param name="command">Comando sql</param>
+        /// <param name="table">Nome da tabela</param>
+        /// <returns>DataSet oDataSet</returns>
+        
+        public DataSet GetDataSet(string command, string table)
+        {
+            try
+            {
+
+                oConnection.Open();
+                oCommand = new SqlCommand(command, oConnection);
+                oDataAdapter = new SqlDataAdapter(oCommand);
+                oDataSet = new DataSet();
+                oDataAdapter.Fill(oDataSet, table);
+                return oDataSet;
+            }
+            catch (SqlException err)
+            {
+                throw err;
+            }
+            finally
+            {
+                oConnection.Dispose();
+                oCommand.Dispose();
+                oDataAdapter.Dispose();
+            }
+        }
+
+        /// <summary>
+        /// Executa select no banco
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns>DataReader oCommand.ExecuteReader()</returns>
+        public SqlDataReader QueryConsulta(string command)
+        {
+            try
+            {
+                oConnection.Open();
+                oCommand = new SqlCommand(command, oConnection);
+                return oCommand.ExecuteReader();
+            }
+            catch (Exception err)
+            {
+                throw err;
+            }
+            finally
+            {
+                //oConnection.Dispose();
+                //oCommand.Dispose();
+            }
+        }
+
+        public void CloseConn()
+        {
+            oConnection.Dispose();
+        }
+    }
+}
+
+            
+              
+            */

@@ -1,0 +1,11 @@
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Business.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Business.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Connection.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Data.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Data.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\bin\x86\Debug\Gerador.Connection.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\obj\x86\Debug\Gerador.Business.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBusiness\obj\x86\Debug\Gerador.Business.pdb

@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Gen.Properties.Resources.resources
+obj\Debug\Gen.csproj.GenerateResource.Cache
+bin\Debug\Gen.exe
+bin\Debug\Gen.pdb
+obj\Debug\Gen.exe
+obj\Debug\Gen.pdb
+obj\Debug\Gen.Principal.resources
+obj\Debug\Gen.GeradorDAO.resources
+bin\Debug\Gerador.dll
+bin\Debug\Gerador.pdb

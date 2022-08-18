@@ -1,0 +1,108 @@
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Gerador.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Gerador.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\GeradorVO.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Library.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Gen.Banco.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\GeradorVO.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\bin\Debug\Library.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\obj\Debug\Gerador.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gerador\obj\Debug\Gerador.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Gerador\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Gerador\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorDAL\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.DAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.DAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\Gerador.DAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\Gerador.DAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Entity.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Entity.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Conexao.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Conexao.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Entity.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Entity.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Connection.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Connection.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.csprojResolveAssemblyReference.cache
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.csprojResolveAssemblyReference.cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Dal.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Connection.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Entity.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.csprojResolveAssemblyReference.cache
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorData\obj\Debug\Gerador.Dal.pdb

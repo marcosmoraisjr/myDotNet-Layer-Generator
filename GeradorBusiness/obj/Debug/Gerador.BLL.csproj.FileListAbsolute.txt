@@ -1,0 +1,60 @@
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\GeradorBO.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\GeradorBO.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\Library.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\Gen.Banco.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\bin\Debug\Library.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\obj\Debug\GeradorBO.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\GeradorBO\obj\Debug\GeradorBO.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\obj\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\obj\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\GeradorBO\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\bin\Debug\Gerador.Banco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\obj\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBO\obj\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\obj\Debug\GeradorBLL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\obj\Debug\GeradorBLL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorBLL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.BLL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.BLL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\Gerador.BLL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\Gerador.BLL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.DAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.DAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Conexao.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Conexao.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.BLL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.BLL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\ResolveAssemblyReference.cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\Gerador.BLL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Debug\Gerador.BLL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Connection.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Debug\Gerador.Connection.pdb

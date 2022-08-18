@@ -1,0 +1,54 @@
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorDAL\obj\Debug\GeradorDAL.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorDAL.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorDAL.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorBanco.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorLIB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorLIB.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\bin\Debug\GeradorBanco.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\obj\Debug\GeradorDAL.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorDAL\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorDAL\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\obj\Debug\GeradorDAL.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorDAL.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorDAL.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorBanco.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorLIB.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorLIB.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorBanco.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\GeradorDAL.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\GeradorDAL.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorDAL\obj\Debug\GeradorDAL.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Banco.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorDAL\bin\Debug\Gerador.Banco.pdb

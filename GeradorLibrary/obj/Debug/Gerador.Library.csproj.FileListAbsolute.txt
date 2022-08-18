@@ -1,0 +1,117 @@
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Library\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Library\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Library\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Library\obj\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorDAL\Library\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Library\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Library\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Library\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Library\obj\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\Library\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorLibrary\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorLibrary\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorLibrary\obj\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClasses\GeradorLibrary\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\bin\Debug\GeradorLIB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\bin\Debug\GeradorLIB.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorLibrary\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\obj\Debug\GeradorLIB.Properties.Resources.resources
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\obj\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorLibrary\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\bin\Debug\GeradorLIB.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\bin\Debug\GeradorLIB.pdb
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\obj\Debug\GeradorLIB.Properties.Resources.resources
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\obj\Debug\GeradorLIB.dll
+D:\mmstec\PROJETOS\Solution GeradorClassesCamadasOleDB\GeradorLibrary\obj\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.dll
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.dll
+G:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.dll
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.dll
+L:\MarcosMorais\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.dll
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.dll
+L:\MarcosMorais\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\GenerateResource-ResGen.read.1.tlog
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\GenerateResource-ResGen.write.1.tlog
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.dll
+C:\MMSTEC\PROJETOS\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVEDOR\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\bin\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.FormProcessando.resources
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.Properties.Resources.resources
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.csproj.GenerateResource.Cache
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.dll
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.pdb
+C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\GeradorLibrary\obj\Debug\Gerador.Library.csprojResolveAssemblyReference.cache

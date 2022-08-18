@@ -1,0 +1,125 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PortalAdminBO
+{
+    public class comunicadoBO
+    {
+
+        public int Insert(PortalAdminVO.comunicadoVO objComVO)
+        {
+
+            PortalAdminDO.PortalAdminDO objDO = null;
+            StringBuilder strSql = null;
+            System.Data.SqlClient.SqlDataReader oDataReader = null;
+            
+            objComVO.ds_ano = DateTime.Today.Year.ToString();
+
+            // verifica datas
+            if (DateTime.Parse(objComVO.dt_inicio) > DateTime.Parse(objComVO.dt_termino))
+            {
+                throw new Exception("Incoerência entre datas.");
+            }
+
+            try
+            {
+                // pega o próximo número do comunicado no ano atual
+                strSql = new StringBuilder();
+                strSql.Append(" SELECT     MAX(nr_comunicado) + 1 AS n ");
+                strSql.Append(" FROM         tb_comunicado ");
+                strSql.Append(" WHERE     (dt_inicio > CONVERT(DATETIME, '01/01/" + objComVO.ds_ano + "', 103))");
+                strSql.Append(" AND (dt_inicio < CONVERT(DATETIME, '31/12/" + objComVO.ds_ano + "', 103))");
+
+                objDO = new PortalAdminDO.PortalAdminDO();
+                oDataReader = objDO.QueryConsulta(strSql.ToString());
+                while (oDataReader.Read())
+                {
+                    objComVO.nr_comunicado = (int)oDataReader["n"];
+                }
+                objDO.CloseConn();
+                objDO = null;
+
+                // comando sql para cadastro de comunicado
+                strSql = null;
+
+                strSql = new StringBuilder();
+                strSql.Append(" INSERT INTO tb_comunicado ");
+                strSql.Append(" (ds_ano, nr_comunicado, dt_inicio, dt_termino, ds_orgao, ds_titulo, ds_urldocumento, id_publicacao, ds_revisao, ds_apresentacao, ds_texto, ds_urlimagem) ");
+                strSql.Append(" VALUES  ( ");
+                strSql.Append(" '" + objComVO.ds_ano + "' , ");
+                strSql.Append(" " + objComVO.nr_comunicado + ", ");
+                strSql.Append(" CONVERT(DATETIME, '" + objComVO.dt_inicio + "', 103) , ");
+                strSql.Append(" CONVERT(DATETIME, '" + objComVO.dt_termino + "', 103) , ");
+                strSql.Append(" '" + objComVO.ds_orgao + "' , ");
+                strSql.Append(" '" + objComVO.ds_titulo + "' , ");
+                strSql.Append(" '" + objComVO.ds_urldocumento + "' , ");
+                strSql.Append(" " + objComVO.id_publicacao + " , ");
+                strSql.Append(" '" + objComVO.ds_revisao + "' , ");
+                strSql.Append(" '" + objComVO.ds_apresentacao + "' , ");
+                strSql.Append(" '" + objComVO.ds_texto + "' , ");
+                strSql.Append(" '" + objComVO.ds_urlimagem + "'  ");
+                strSql.Append(" ) ");
+
+                objDO = new PortalAdminDO.PortalAdminDO();
+
+                return objDO.ExecutaQuery(strSql.ToString());
+            }
+            catch (Exception er)
+            {
+                throw new Exception("Aconteceu um erro:" + er.Message.ToString());
+            }
+
+        }
+
+
+        /// <summary>
+        /// Seleciona todos os comunicados
+        /// </summary>
+        /// <returns>System.Data.DataSet DataSet</returns>
+        public System.Data.DataSet FindAll()
+        {
+            PortalAdminDO.PortalAdminDO objDO = null;
+
+            StringBuilder strSql = null;
+            strSql = new StringBuilder();
+            strSql.Append("SELECT     id_comunicado, nr_comunicado, ds_titulo, ds_urldocumento, dt_inicio, dt_termino, ");
+            strSql.Append(" id_autorizacao, id_publicacao, ds_orgao, ds_ano, ds_regional, ds_revisao, ");
+            strSql.Append(" ds_apresentacao, ds_texto, ds_urlimagem ");
+            strSql.Append(" FROM         elnweb.tb_comunicado ");
+            strSql.Append(" ORDER BY nr_comunicado DESC ");
+
+            objDO = new PortalAdminDO.PortalAdminDO();
+
+            // executa consulta e retorna um DataSet
+            return objDO.GetDataSet(strSql.ToString(), "Comunicados");
+        }
+
+        /// <summary>
+        /// Seleciona todos os comunicados do ano
+        /// </summary>
+        /// <returns>System.Data.DataSet DataSet</returns>
+        public System.Data.DataSet FindAll(string strAno)
+        {
+            PortalAdminDO.PortalAdminDO objDO = null;
+            
+            StringBuilder strSql = null;
+            strSql = new StringBuilder();
+            strSql.Append("SELECT     id_comunicado, nr_comunicado, ds_titulo, ds_urldocumento, dt_inicio, dt_termino, ");
+            strSql.Append(" id_autorizacao, id_publicacao, ds_orgao, ds_ano, ds_regional, ds_revisao, ");
+            strSql.Append(" ds_apresentacao, ds_texto, ds_urlimagem ");
+            strSql.Append(" FROM         elnweb.tb_comunicado ");
+            strSql.Append(" WHERE     (ds_ano = '" + strAno + "')");
+            strSql.Append(" ORDER BY nr_comunicado DESC ");
+
+            objDO = new PortalAdminDO.PortalAdminDO();
+
+            // executa consulta e retorna um DataSet
+            return objDO.GetDataSet(strSql.ToString(), "Comunicados");
+        }
+
+
+
+  
+    }
+}

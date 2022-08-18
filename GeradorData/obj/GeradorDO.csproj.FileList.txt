@@ -1,0 +1,10 @@
+bin\Debug\Gerador.dll
+bin\Debug\Gerador.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Gerador.dll
+obj\Debug\Gerador.pdb
+bin\Release\Gerador.dll
+bin\Release\Gerador.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Gerador.dll
+obj\Release\Gerador.pdb

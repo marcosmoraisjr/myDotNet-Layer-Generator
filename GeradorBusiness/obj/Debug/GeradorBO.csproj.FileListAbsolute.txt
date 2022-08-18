@@ -1,0 +1,36 @@
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Banco.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Library.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\bin\Debug\Library.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\GeradorBO.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\GeradorBO.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\Banco.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\Library.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\Banco.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\bin\Debug\Library.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\obj\Debug\GeradorBO.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\GeradorBO\obj\Debug\GeradorBO.pdb
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\GeradorBO.dll
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\GeradorBO.pdb
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Banco.dll
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Library.dll
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Banco.pdb
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Library.pdb
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\GeradorBO.dll
+H:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\GeradorBO.pdb
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\GeradorBO.dll
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\GeradorBO.pdb
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Banco.dll
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Library.dll
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Banco.pdb
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\bin\Debug\Library.pdb
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\GeradorBO.dll
+L:\mmstec\PROJETOS\GenMVC\GeradorBO\obj\Debug\GeradorBO.pdb

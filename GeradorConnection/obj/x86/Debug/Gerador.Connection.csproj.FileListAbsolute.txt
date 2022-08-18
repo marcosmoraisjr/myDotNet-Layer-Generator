@@ -1,0 +1,5 @@
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorConnection\bin\x86\Debug\Gerador.Connection.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorConnection\bin\x86\Debug\Gerador.Connection.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorConnection\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorConnection\obj\x86\Debug\Gerador.Connection.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorConnection\obj\x86\Debug\Gerador.Connection.pdb

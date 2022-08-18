@@ -1,0 +1,20 @@
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Library\bin\Debug\Library.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Library\bin\Debug\Library.pdb
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Library\obj\Debug\Library.dll
+C:\Users\Rafael\Downloads\GenDAO\GenDAO\Library\obj\Debug\Library.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\Library\bin\Debug\Library.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\Library\bin\Debug\Library.pdb
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\Library\obj\Debug\ResolveAssemblyReference.cache
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\Library\obj\Debug\Library.dll
+C:\mmstec\My Dropbox\PROJETOS\GenDAO\Library\obj\Debug\Library.pdb
+H:\mmstec\PROJETOS\GenMVC\Library\bin\Debug\Library.dll
+H:\mmstec\PROJETOS\GenMVC\Library\bin\Debug\Library.pdb
+H:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\ResolveAssemblyReference.cache
+H:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\Library.dll
+H:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\Library.pdb
+L:\mmstec\PROJETOS\GenMVC\Library\bin\Debug\Library.dll
+L:\mmstec\PROJETOS\GenMVC\Library\bin\Debug\Library.pdb
+L:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\Library.dll
+L:\mmstec\PROJETOS\GenMVC\Library\obj\Debug\Library.pdb

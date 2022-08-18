@@ -1,0 +1,36 @@
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\obj\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Ferramentas\GeradorClassesDAL\GeradorTAB\obj\Debug\GeradorTAB.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorTAB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorTAB.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorBanco.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorLIB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorLIB.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\bin\Debug\GeradorBanco.pdb
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\obj\Debug\GeradorTAB.dll
+C:\Users\Marcos\Desktop\Geradores\GeradorClassesDAL\GeradorTAB\obj\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\obj\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Solution GeradorClasses3Camadas\GeradorTAB\obj\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorTAB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorBanco.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorLIB.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorLIB.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\bin\Debug\GeradorBanco.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\obj\Debug\GeradorTAB.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorTAB\obj\Debug\GeradorTAB.pdb

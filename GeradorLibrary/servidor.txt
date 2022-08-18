@@ -1,0 +1,65 @@
+/*
+For getting list of server instances name.
+*/
+System.Data.Sql.SqlDataSourceEnumerator servers = _
+System.Data.Sql.SqlDataSourceEnumerator.Instance;
+System.Data.DataTable serversTable = servers.GetDataSources();
+foreach(DataRow row in serversTable.Rows)
+{
+    //row[0]=networked computer name
+    //row[1]=database server instance name
+    //to get full name for connection use following method
+    string serverinsance_name;
+    serverinsance_name=row[0].ToString() + @"\" + row[1].ToString()
+}
+
+/*
+Fetch list of databases based on server 
+instance name user have selected
+*/
+//In generalized method you need to make connection 
+//with the selected server instance name
+//for fetching list of databases
+String ml_conxString;
+DataTable o_DatabaseList;
+if(string.IsNullOrEmpty(UserName.Text))
+{
+    ml_conxString = "Data Source=" + ServerName.Text.Trim() + ";_
+    Integrated Security=True";
+}
+else
+{
+    ml_conxString = "Data Source=" + ServerName.Text.Trim() + ";_ 
+    Initial Catalog=" + DataBaseName.Text.Trim() + ";_
+    User ID = " + UserName.Text.Trim() + ";Pwd = " + Password.Text;
+}
+using (SqlConnection sqlConx = new SqlConnection(ml_conxString))
+{
+    sqlConx.Open();
+    o_DatabaseList = sqlConx.GetSchema("Databases");
+    sqlConx.Close();
+}
+//To access database name
+foreach (DataRow row in o_DatabaseList.Rows)
+{
+    string ml_databasename;
+    ml_databasename = row["database_name"].ToString();
+}
+
+//Testing connection is same as we have fetched 
+//database list based on server instance name
+String ml_conxString;
+if(string.IsNullOrEmpty(UserName.Text))
+{
+    ml_conxString = "Data Source=" + ServerName.Text.Trim() + ";_
+    Initial Catalog=" + DataBaseName.Text.Trim() + ";Integrated Security=True";
+}
+else
+{
+    ml_conxString = "Data Source=" + ServerName.Text.Trim() + ";_
+    Initial Catalog=" + DataBaseName.Text.Trim() + ";_
+    User ID = " + UserName.Text.Trim() + ";Pwd = " + Password.Text;
+}
+SqlConnection sqlConx = new SqlConnection(ml_conxString);
+sqlConx.Open();
+sqlConx.Close(); 

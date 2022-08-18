@@ -1,0 +1,10 @@
+L:\mmstec\PROJETOS\GenMVC\Gen.Banco\bin\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\GenMVC\Gen.Banco\bin\Debug\Gen.Banco.pdb
+L:\mmstec\PROJETOS\GenMVC\Gen.Banco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\GenMVC\Gen.Banco\obj\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\GenMVC\Gen.Banco\obj\Debug\Gen.Banco.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gen.Banco\bin\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gen.Banco\bin\Debug\Gen.Banco.pdb
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gen.Banco\obj\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gen.Banco\obj\Debug\Gen.Banco.dll
+L:\mmstec\PROJETOS\Exemplos\GenMVC\Gen.Banco\obj\Debug\Gen.Banco.pdb

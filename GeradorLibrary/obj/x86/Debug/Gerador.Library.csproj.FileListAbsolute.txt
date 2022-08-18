@@ -1,0 +1,7 @@
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\x86\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\bin\x86\Debug\Gerador.Library.pdb
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\x86\Debug\Gerador.Library.Properties.Resources.resources
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\x86\Debug\Gerador.Library.csproj.GenerateResource.Cache
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\x86\Debug\Gerador.Library.dll
+L:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorLibrary\obj\x86\Debug\Gerador.Library.pdb

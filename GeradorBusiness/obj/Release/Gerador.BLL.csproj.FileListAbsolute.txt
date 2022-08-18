@@ -1,0 +1,11 @@
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.BLL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.BLL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.Conexao.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.DAL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.Library.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.Library.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.Conexao.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\bin\Release\Gerador.DAL.pdb
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Release\ResolveAssemblyReference.cache
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Release\Gerador.BLL.dll
+G:\mmstec\PROJETOS\Solution GeradorClassesCamadas\GeradorBLL\obj\Release\Gerador.BLL.pdb
