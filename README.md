@@ -1,4 +1,4 @@
-# Solutions
+# Solutions Gerador.NET
 Este repositório agrega soluções diversas para atendimento de diversas demandas
 
 ## 🚀 Descrição
