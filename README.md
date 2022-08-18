@@ -1,5 +1,5 @@
 # Solutions Gerador.NET
-Este repositório agrega soluções diversas para atendimento de diversas demandas
+Este repositório agrega soluções para diversas demandas.
 
 ## 🚀 Descrição
 O Gerador.NET, é um software para agilizar a vida do programador.
