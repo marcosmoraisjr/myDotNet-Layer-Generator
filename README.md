@@ -13,7 +13,7 @@ O software Gerador.NET foi escrito em C# e compitado com Microsoft Visual Studio
 ```
 @MISC{mmstecsolutions,
     author = {Marcos Morais},
-    title = {{Mmstec Solutions},
+    title = {{MMSTEC Gerador.NET},
     howpublished = "\url{https://github.com/mmstec}",
     year = {2021},
   }
