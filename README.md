@@ -3,7 +3,7 @@ Neste repositório encontra-se um projeto especial para otimização de aplicati
 
 ## 🚀 Descrição
 O Gerador.NET é um software para agilizar a vida do programador.
-Na versão atual o gerador.NET recebe como entrada o endereço local de um banco de dados Microsoft SQL Server e devolve o o projeto de um software funcional escrito em camadas. Após informar o banco de dados e preenchear os campos solicitados quando o usuário confirmar o processo de geração das camadas (exceto a camada de interface UI) com seus respectivos métodos para o pleno funcionamento do software que se comunica com o banco de dados.
+Na versão atual o gerador.NET recebe como entrada o endereço na rede local de um banco de dados Microsoft SQL Server e devolve o o projeto de um software funcional escrito em camadas. Após informar o banco de dados e preenchear os campos solicitados quando o usuário confirmar o processo de geração das camadas (exceto a camada de interface UI) com seus respectivos métodos para o pleno funcionamento do software que se comunica com o banco de dados.
 
 ## 📄 Tecnologias usadas
 O software Gerador.NET foi escrito em C# e compitado com Microsoft Visual Studio!
