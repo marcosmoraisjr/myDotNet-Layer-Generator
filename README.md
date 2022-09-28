@@ -8,6 +8,9 @@ Na versão atual, o gerador.NET recebe como entrada o endereço na rede local de
 ## 📄 Tecnologias usadas
 O software Gerador.NET foi escrito em C# e compitado com Microsoft Visual Studio!
 
+## Exemplo
+<img src="/telas/sobre.png" alt="sobre"/>
+
 ## 🚀 Citação
 ```
 @MISC{mmstecsolutions,
@@ -25,3 +28,4 @@ ___
 Desenvolvedor,
 Marcos Morais
 Visite https://linktr.ee/marcosmoraisjr
+
