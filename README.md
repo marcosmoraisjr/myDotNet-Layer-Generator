@@ -40,9 +40,9 @@ Sobre<br />
   }
 ```
 ## 📄 Licença
-
 Este projeto está sob a licença - veja o arquivo [LICENSE.md](https://github.com/mmstec/mmstec/blob/main/LICENSE) para detalhes. <br />
-Desde que o autor seja citado, o conteúdo deste repositório pode ser usado para estudos ou experimentos. O autor não se responsabiliza em nenhuma hipótese por danos de qualquer natureza que estes códigos possam causar.
+Desde que o autor seja citado, o conteúdo deste repositório pode ser usado para estudos ou experimentos. 
+O autor não se responsabiliza em nenhuma hipótese por danos de qualquer natureza que estes códigos possam causar.
 ___
 Desenvolvedor, Marcos Morais
 Visite https://linktr.ee/marcosmoraisjr
