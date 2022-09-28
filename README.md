@@ -9,7 +9,7 @@ Na versão atual, o gerador.NET recebe como entrada o endereço na rede local de
 O software Gerador.NET foi escrito em C# e compitado com Microsoft Visual Studio!
 
 ## Exemplo
-<img src="/telas/sobre.png" alt="sobre"/>
+<img src="https://user-images.githubusercontent.com/26969915/192784070-c9c00384-e813-41c5-9839-d44c83668b4c.png" alt="sobre"/>
 
 ## 🚀 Citação
 ```
