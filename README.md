@@ -1,5 +1,5 @@
 # Solutions Gerador.NET
-Neste repositório encontra-se um projeto especial para otimização de aplicativos desenvolvidos em camadas na linguagem em C# e banco de dados SQL Server.
+Neste repositório encontra-se um projeto especial para otimização de aplicativos desenvolvidos em camadas na linguagem em C# e banco de dados SQL Server.<br />
 <br />Se gostou desse projeto, colabore deixando seu comentário em:
 <br />https://www.linkedin.com/feed/update/urn:li:activity:6980871568998428673/ 
 <br />Se puder, contribua com a evolução deste projeto enviando PIX de qualquer valor para a chave aleatória:
