@@ -1,9 +1,10 @@
 # Solutions Gerador.NET
 Neste repositório encontra-se um projeto especial para otimização de aplicativos desenvolvidos em camadas na linguagem em C# e banco de dados SQL Server.
 
-Se gostou desse projeto, colabore deixando seu compentário em https://www.linkedin.com/feed/update/urn:li:activity:6980871568998428673/
-
-Se puder, contribua com a evolução deste projeto enviando qualquer valor para o pix 4f164fff-0411-4b53-a6a2-f7c0447c1776
+<br />Se gostou desse projeto, colabore deixando seu comentário em:
+<br />https://www.linkedin.com/feed/update/urn:li:activity:6980871568998428673/ 
+<br />Se puder, contribua com a evolução deste projeto enviando PIX de qualquer valor para a chave aleatória:
+<br />4f164fff-0411-4b53-a6a2-f7c0447c1776
 
 ## 🚀 Descrição
 O Gerador.NET é um software para agilizar a vida do desenvolvedor. Na versão atual, o software  recebe como entrada o endereço na rede local de um banco de dados Microsoft SQL Server e devolve o projeto back-end de um software funcional escrito em N camadas.  Daí é só implementar o frontend web ou desktop para se comunicar com o backend e ser feliz! 
