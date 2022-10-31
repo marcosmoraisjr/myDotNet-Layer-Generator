@@ -1,6 +1,0 @@
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\bin\Debug\Gerador.TESTE.exe.config
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\bin\Debug\Gerador.TESTE.exe
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\bin\Debug\Gerador.TESTE.pdb
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\obj\Debug\Gerador.TESTE.csprojResolveAssemblyReference.cache
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\obj\Debug\Gerador.TESTE.exe
-C:\MMSTEC\DESENVOLVIMENTO\VSTUDIO2012\Solution Gerador.NET\Gerador.TESTE\obj\Debug\Gerador.TESTE.pdb
